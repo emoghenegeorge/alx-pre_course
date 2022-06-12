@@ -1,5 +1,6 @@
 #!bash/school
 #!bin/bash
-echo school
-echo school
-:
+echo "school"
+
+echooo o school
+											:
