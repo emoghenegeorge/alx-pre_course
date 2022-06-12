@@ -1,5 +1,6 @@
 bin/bash
 #!bin/bash
 echo Alx
-echo "ALX"
+echo "ALX School"
+
 
